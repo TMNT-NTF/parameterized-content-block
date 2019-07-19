@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkaplan-github/parameterized-content-block.git"
+    "url": "git+https://github.com/TMNT-NTF/parameterized-content-block.git"
   },
   "author": "Brian Kaplan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bkaplan-github/parameterized-content-block/issues"
+    "url": "https://github.com/TMNT-NTF/parameterized-content-block/issues"
   },
-  "homepage": "https://github.com/bkaplan-github/parameterized-content-block#readme",
+  "homepage": "https://github.com/TMNT-NTF/parameterized-content-block#readme",
   "dependencies": {
     "@salesforce-ux/design-system": "^2.5.2",
     "blocksdk": "^1.0.0",
